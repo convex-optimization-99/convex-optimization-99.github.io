@@ -1,34 +1,261 @@
 ---
 layout: single
 author_profile: true
-title: "Welcome to Convex Optimization Home!"
+title: "Welcome to Convex Optimization Forum!"
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Wed Dec 24 01:46:58 PST 2025
+date: Thu Dec 25 04:25:49 PST 2025
+last_modified_at: Thu Dec 25 06:01:27 PST 2025
+usemathjax: true
 ---
 
-<h1 id="intro">About Me</h1>
+<h1 id="about">
+About
+</h1>
 
 <p>
-Hello! I'm Mr. Funnybunny
-–
-a math enthusiast, tech advocate, deep thinker, and above all, a people person.
-I'm passionate about math, convex optimization, technology, AI, cognitive science, natural sciences,
-biotech, medical tech &amp; science, philosophy, theology, history, enlightenment, and mindfulness,
-but more than anything else,
-I love exploring the intersections of technology with business, markets, economy, sustainability, and society.
+Convex Optimization is a Forum for those who have studied, taught, or applied convex optimization&mdash;and have come to realize they don't truly understand it. This may sound paradoxical at first. After all, if you've successfully taught a graduate course on the subject, published papers using optimization techniques, or implemented algorithms that work in production systems, surely you understand it?
 </p>
 
 <p>
-I am a firm believer in the power of human connection and the importance of finding meaning and values in our communities,
-rather than blindly pursuing development and progress, especially in the realms of technology and economy.
-(You can find out more about me <a href="/about">here</a> especially around my professional life.)
+But ask yourself this: Can you prove Slater's condition from first principles right now, without looking it up?
+More importantly, can you explain what it really means&mdash;not just mechanically reciting the mathematical statement, but grasping the geometric essence of why this particular constraint qualification guarantees strong duality? Can you offer multiple interpretations of the dual problem: economic, geometric, variational, and game-theoretic? Can you see it, draw it, feel it in your bones?
 </p>
 
 <p>
-Welcome to my space, where I share my insights and values.
-<font class="emph">Let's connect!</font>
+If you're honest with yourself, the answer is definitely and definitively NO!
+And that's not a criticism&mdash;it's an observation about the nature of genuine understanding versus superficial knowledge.
 </p>
 
+<p>
+If you have this level of self-awareness, here's a good news, or rather, great news!
+<a href="https://sungheeyun.github.io">Sunghee</a>
+has created a forum just for the people who have reached this point of self-awareness,
+who recognize the difference between knowing that something is true and understanding why it must be true,
+who feel the intellectual discomfort of realizing that
+what they thought they knew is actually just a thin veneer over depths they've never explored.
+</p>
+
+<h1 id="philosophy">The Nature of Understanding</h1>
+
+<p>
+Let me be provocative for a moment. Consider the Riemann Hypothesis, one of the great unsolved problems in mathematics. Thousands of mathematicians have studied it, written about it, taught courses that mention it, and explored its implications. But here's a radical proposition: if you truly understood the Riemann Hypothesis — if you genuinely comprehended why it works the way it does — you should be able to prove it. Not "have heard the statement of it" or "know that it relates to the distribution of primes," but actually prove it from first principles. In this strict sense, not a single living person on Earth truly understands the Riemann Hypothesis. If they did, they would have proven it already.
+</p>
+
+<p>
+Or consider Fermat's Last Theorem, which was finally proven in 1995 by Andrew Wiles. For over 350 years, mathematicians studied this deceptively simple statement: that no three positive integers $a$, $b$, and $c$ can satisfy the equation
+
+$$a^n + b^n = c^n$$
+
+for any integer value of $n$ greater than 2. Countless mathematicians worked on it, understood its statement perfectly, explored its implications, and investigated special cases. But did any of them truly understand why it was true? If they had, the proof wouldn't have required the incredibly sophisticated machinery that Wiles eventually deployed — modular forms, elliptic curves, Galois representations, concepts that didn't even exist when Fermat first wrote his famous marginal note. If someone had genuinely understood the deep structure of why Fermat's Last Theorem holds, the proof might have been more direct, more elegant, less dependent on hundreds of pages of technical machinery. The very fact that it took so long, and required such elaborate tools, suggests that even after the proof, we might not fully understand it in the deepest sense. We know it's true, we can verify the proof, but do we really grasp the essential reason why these particular <a target="_blank" href="https://en.wikipedia.org/wiki/Diophantine_equation">Diophantine equations</a> have no solutions?
+</p>
+
+<p>
+Now apply this same standard to convex optimization. How many people can honestly claim to understand — in this deep, comprehensive sense — what strong duality really is? Why does convexity specifically enable the KKT conditions to be sufficient for optimality (the fact that we take for granted only because we have heard about it countless)? What does it mean, at a fundamental level, that <a target="_blank" href="https://econweb.ucsd.edu/~jsobel/172aw02/ooldnotes6.pdf">solving a vitamin cost minimization problem is somehow equivalent to solving a nutrient ingredient pricing maximization problem</a>? <a target="_blank" href="https://web.stanford.edu/~boyd/">Stephen Boyd</a>'s <a target="_blank" href="https://web.stanford.edu/~boyd/cvxbook/">textbook</a> proves these results beautifully, but proving something and understanding it are not always the same thing. You can follow a proof line by line, verify each step is valid, and still not grasp the deeper truth it reveals. Understanding requires something more&mdash;an intuitive grasp of why things must be this way, an ability to see the result from multiple perspectives, a feel for the underlying structure that makes superficially different problems reveal themselves as aspects of the same phenomenon.
+</p>
+
+<p>
+In this strict sense&mdash;genuine, multi-faceted, from-first-principles understanding&mdash;there are perhaps only a handful of people in the entire world who can legitimately claim to understand convex optimization comprehensively.
+<!--Perhaps only two: myself (<a href="https://sungheeyun.github.io">Sunghee Yun</a>, PhD from Stanford under Stephen Boyd) and Professor Boyd himself.-->
+And even that may be generous—there are corners and connections that even we continue to discover.
+</p>
+
+<!--h1 id="recent-posts">Recent Posts</h1>
+<ul>
+	{% for post in site.posts limit:10 %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a> @ {{ post.date | date: "%d-%b-%Y"}}
+		</li>
+	{% endfor %}
+</ul-->
+
+<h1 id="leadership">Who Leads This Forum</h1>
+
+<p>
+<a href="/">This forum</a> will be primarily led by <a href="https://sungheeyun.github.io">Sunghee Yun</a>, whose journey with convex optimization has spanned theoretical foundations, industrial applications, and entrepreneurial ventures across multiple continents and domains. His path began with a PhD at Stanford under <a target="_blank" href="https://web.stanford.edu/~boyd">Stephen Boyd</a>, where he worked on the theoretical underpinnings of convex optimization and <a href="https://sungheeyun.github.io/#erdos-number">developed an Erdős number of 3 through a mathematical genealogy</a> that <a href="https://sungheeyun.github.io/#math-genealogy">traces back to Gauss himself</a>. This foundation in rigorous theory has been essential, but what has truly shaped his understanding is what came after.
+</p>
+
+<p>
+He spent twelve years at Samsung Semiconductor developing optimization tools for chip design, where he discovered that textbook convexity often breaks in practice. Real-world manufacturing constraints, timing requirements, and power limitations create problem structures that don't fit neatly into standard frameworks. This taught him to understand the deep structure of convex optimization—not just how to apply techniques when everything is perfectly convex, but what still works and why when you venture into messier territory. He then moved to Amazon as a Senior Applied Scientist, where he built recommendation systems that generated over $200 million in revenue. These systems fundamentally rely on matrix factorization and ranking problems that are only tractable because of careful convex relaxations, and they operate at a scale where computational efficiency isn't optional.
+</p>
+
+<p>
+More recently, he's co-founded <a target="_blank" href="https://www.erudio.bio/">Erudio Bio, Inc.</a> as CTO, applying Artificial Intelligence (AI) and Optimization to drug development and biotech while serving as CEO of Erudio Bio Korea, Inc. He also leads <a target="_blank" href="https://k-privateai.github.io">the Silicon Valley Privacy-Preserving AI Forum (K-PAI)</a> while taking a role of CGO / Global Managing Partner for <a target="_blank" href="https://www.lulumedic.com/en/">LULUMEDIC</a>. Each of these domains—semiconductor manufacturing, recommendation systems, biotech, privacy-preserving AI, bio and medical data business—reveals entirely different facets of convex optimization. Each one has taught him something new about what the mathematics really means, not just how to apply it mechanically. This cross-domain perspective is what transforms knowledge into genuine understanding &ndash; when you see the same mathematical structure playing completely different roles across industries, you begin to grasp something essential about its nature that no single application could ever reveal.
+</p>
+
+<p>
+But here's what he's learned most deeply &ndash; he understands best when he is teaching, when he's answering questions, when he's explaining something he thought he knew and discovering new dimensions in the process. The deepest insights often emerge not from solitary contemplation but from dialogue, from someone asking "but why?" in a way that forces him to articulate something he'd only felt intuitively. <a href="/">This forum</a> exists because he wants to create that space—where your questions, your confusions, your alternative perspectives spark new connections, and where the insights that emerge flow back to benefit everyone. It's a genuine collaboration, even if the starting points are different.
+</p>
+
+<!--h1 id="virtuous-cycle">The Virtuous Cycle of Teaching and Learning</h1>
+
+<p>
+So why would I dedicate time to teaching people whose understanding is so far below mine? The answer is simultaneously selfish and generous: because I learn best by teaching. My deepest insights often come not from solitary study but from answering questions, from being forced to explain something I thought I understood and discovering gaps in my own comprehension, from seeing how someone else's confusion illuminates an aspect I'd never considered. When a student asks "but why does Slater's condition specifically require strict inequality for some constraint?" I might give an immediate answer, but then that question echoes in my mind, and I realize there's a geometric interpretation I'd never fully articulated, which connects to something I saw in semiconductor optimization, which suddenly makes me understand a completely different aspect of barrier methods.
+</p>
+
+<p>
+This is the virtuous cycle: I share insights that seem obvious to me but are revelatory to others. Their questions, confusions, and alternative perspectives spark new connections in my mind. These new insights then flow back to everyone in the forum, creating an upward spiral of understanding for all participants. You come to learn from me, but through your engagement, I learn as well. You grow from one-dimensional to multi-dimensional understanding, while I discover new dimensions I hadn't imagined. Everyone benefits.
+</p>
+
+<p>
+Moreover, I am — above all else — a people person. I genuinely love intellectual community, the spark of ideas flowing between minds, the moment when someone's eyes light up because they've finally grasped something that had been opaque. This isn't just an educational exercise; it's about building a community of genuinely curious minds who care about truth and understanding, not credentials or publications for their own sake. I want to shed light on the beauty and depth of these ideas, and in doing so, I know I'll see things I've never seen before.
+</p-->
+
+<h1 id="who-we-are">
+Who We Are
+</h1>
+
+<p>
+We are primarily professors and researchers who have taught or extensively used convex optimization, along with advanced students who have taken these courses and realized the course barely scratched the surface. Our members come from diverse fields where optimization plays a crucial role &ndash; semiconductor design engineers who optimize chip layouts and manufacturing processes, machine learning researchers working on everything from <a target="_blank" href="https://en.wikipedia.org/wiki/Support_vector_machine">support vector machines</a> to <a target="_blank" href="https://en.wikipedia.org/wiki/Deep_learning">deep learning</a>, biotech scientists applying optimization to protein folding and drug discovery, control theorists and signal processing experts, economists and operations researchers, and anyone else for whom optimization is a fundamental tool rather than a passing technique.
+</p>
+
+<p>
+What unites us is not our credentials but our self-awareness. We have reached the point where we know that we don't truly understand what we thought we understood. We've taught the material, we've published papers using these methods, we've implemented successful systems&mdash;and yet when we're honest with ourselves, we recognize that our understanding is mechanical rather than deep, procedural rather than intuitive, one-dimensional rather than multi-faceted. This self-awareness is <span style="color: red;"><strong>rare and precious</strong></span>. Most people go through their entire careers never questioning whether they truly understand their foundational tools. We've questioned it, and now we want to do something about it.
+</p>
+
+<h1 id="what-we-explore">What We Explore</h1>
+
+<h2 id="duality">The Deep Dive on Duality</h2>
+
+<p>
+Duality will likely be our first major exploration, because it perfectly exemplifies the gap between superficial knowledge and genuine understanding. Everyone who's taken a convex optimization course can write down the dual problem &ndash; you construct the Lagrangian, minimize over the primal variables, and what remains is your dual function. Under certain conditions—Slater's condition being the most common—strong duality holds, meaning the dual optimum equals the primal optimum. Many (if not most) students can follow this derivation, prove the results, and apply the technique. But do they understand it?
+</p>
+
+<p>
+Let's take the classic vitamin problem that appears in every optimization textbook. You want to minimize the cost of a diet that meets certain nutritional requirements. Each food has a cost and provides certain amounts of each nutrient. The primal problem is straightforward &ndash; minimize cost subject to nutritional constraints. Now the dual problem says &ndash; assign a price to each nutrient such that the total value of nutrients in any food doesn't exceed that food's cost, and maximize the total value of the required nutrients. The dual optimum equals the primal optimum. But why? Why on earth should a cost minimization problem be equivalent to a nutrient pricing problem? What's the deep connection?
+</p>
+
+<p>
+The geometric interpretation offers one lens &ndash; the primal optimal point sits on the boundary of the feasible region, and the dual variables represent the normal vectors to the active constraints at that point. Supporting hyperplanes separate the feasible region from the objective function's level sets. Fine — but what does this really mean intuitively? Can you draw it in a way that makes it obvious? Can you see why convexity specifically is required for this to work?
+</p>
+
+<p>
+The economic interpretation offers another lens &ndash; dual variables are shadow prices, representing how much the objective would improve if you relaxed each constraint slightly. In the vitamin problem, they literally are prices for nutrients in a perfectly competitive market. But why does this economic interpretation emerge from the mathematics? Is it just a useful metaphor, or is there something fundamental about the relationship between optimization and economics?
+</p>
+
+<p>
+We'll explore all of these perspectives and more. We'll look at how duality appears in game theory (minimax theorems and optimal strategies), in information theory (channel capacity and rate-distortion), in machine learning (the beautiful dual formulation of support vector machines where you maximize margin by emphasizing support vectors), and in control theory. Each domain reveals something different about what duality actually is at its core. By the time we're done, you won't just know how to compute dual problems—you'll understand them in a way that changes how you think about optimization itself.
+</p>
+
+<h2 id="convexity-and-deep-learning">Convexity and Deep Learning</h2>
+
+<p>
+Another topic we'll explore deeply is the relationship between convex optimization and modern deep learning. On the surface, this seems contradictory. Deep neural networks are highly non-convex—they have countless local minima, saddle points, and complex loss landscapes. The moment you add a single hidden layer, all the beautiful guarantees of convex optimization vanish. So why study convex optimization if we're living in a non-convex world?
+</p>
+
+<p>
+The answer is subtle and profound. First, many classical machine learning methods are convex &ndash; logistic regression, support vector machines, certain matrix factorization techniques. Understanding these deeply gives you foundational intuition for more complex methods. Second, even in non-convex deep learning, the local structure around a good minimum is often approximately convex. The optimization landscape isn't convex globally, but if you're near a good solution, convex analysis tells you about local properties. Third, many modern techniques in deep learning — regularization, optimization algorithms, architecture design — are inspired by intuitions from convex analysis. When you truly understand convexity, you know what breaks and why when you move to non-convex problems.
+</p>
+
+<p>
+But most fundamentally &ndash; understanding convex optimization gives you &ldquo;physics intuition&rdquo; for all optimization problems. Just as Newtonian mechanics gives you intuition for relativistic mechanics even though it's technically wrong at high speeds, convex optimization gives you the right mental models for thinking about any optimization landscape. You understand what it means for a problem to be easy versus hard, what makes certain algorithms converge quickly while others struggle, why some formulations are better than others even when they seem equivalent. This intuition is invaluable regardless of whether you're working on convex or non-convex problems.
+</p>
+
+<h2 id="cross-domain">Cross-Domain Applications and Insights</h2>
+
+<p>
+Beyond specific topics like duality or the connection to deep learning, we'll continually explore how convex optimization manifests across different domains. In <a href="https://sungheeyun.github.io">Sunghee</a>'s semiconductor work at Samsung, he encountered optimization problems in chip placement and routing, timing optimization, power minimization—each with its own structure and constraints. In his work with recommendation systems at Amazon, the optimization was about matrix factorization and ranking, where the convex relaxations made trillion-parameter problems tractable. In biotech at Erudio Bio, he and his colleagues are applying optimization to protein structure prediction and drug candidate selection, where the problem structures are completely different yet again.
+</p>
+
+<p>
+Each domain teaches you something new. In semiconductors, you learn about very large-scale problems with special structure (sparsity, locality, and hierarchy). In recommendation systems, you learn about optimization under uncertainty and computational constraints. In biotech, you learn about optimization in very high-dimensional spaces with complex constraints from physics and biology. When you've seen convex optimization in five or ten different contexts, you start to see the underlying patterns that no single application reveals. You understand not just how to apply techniques but why certain structures arise, what mathematical properties they reflect, and how to recognize similar patterns in new domains.
+</p>
+
+<p>
+<span class="emph">Members of <a href="/">this forum</a> will have opportunities to present their own research and applications, to share the optimization problems they encounter in their work, and to get feedback not just on how to solve them but on what deeper principles they illustrate. Someone working on network optimization might discover unexpected connections to someone else's work on portfolio theory. A machine learning researcher might gain insights from how a manufacturing engineer thinks about resource allocation. This cross-pollination of ideas is one of the forum's greatest values.</span>
+</p>
+
+<h1 id="format">Format and Structure</h1>
+
+<p>
+We are committed to effectiveness over formality. This is not a traditional seminar series with fixed dates, standardized presentations, and rigid structure. Instead, we adapt to what works best for generating genuine insight and understanding. Sometimes that means intensive in-person gatherings where we spend an entire day diving deep into a single concept, with breaks for informal discussions that often yield the most valuable insights. Sometimes it means a quick online session to clarify a specific question that arose in someone's research. Sometimes it means an active email thread or chat discussion that spans days or weeks as people contribute thoughts asynchronously.
+</p>
+
+<p>
+That said,
+<span class="emph">we are committed to meeting in person at least twice per year: once in Korea and once in Silicon Valley.</span> These bi-continental gatherings are essential because they create different kinds of opportunities. In Korea, we can engage deeply with the academic community—KAIST, POSTECH, DGIST, Seoul National University (SNU), Korea University, Yonsei University, Sogang University, SEOULTECH, Ewha Womans University, KIST, Sungkyunkwan University, and other institutions where optimization is studied and applied. We can connect with the semiconductor industry, where much of the world's advanced chip design happens; Samsung Semiconductor, SK hynix, NVIDIA, and what not. We can tap into the energy and curiosity of Korean students and researchers who are eager to engage with these ideas.
+</p>
+
+<p>
+In Silicon Valley, we connect with the startup ecosystem, the AI and biotech industries, the venture capital and entrepreneurship communities. We can explore how optimization insights translate into business opportunities, how deep understanding can become competitive advantage in fast-moving industries. We can cross-pollinate with my other initiative, the Silicon Valley Privacy-Preserving AI Forum (K-PAI), where similar interdisciplinary conversations happen around AI. We can tap into renowned universities in US&mdash;<a target="_blank" href="https://www.stanford.edu/">Stanford University</a>, MIT, UC Berkeley, and what not. The two venues create complementary ecosystems that together are more valuable than either alone.
+</p>
+
+<p>
+Between these major gatherings, we maintain momentum through whatever formats work best. Sometimes that might be regular monthly online sessions. Sometimes irregular forums proposed by members when they have something interesting to share or explore. Sometimes presentations of research in progress where you're stuck and want input. Sometimes proposals for new collaborations, research projects, or even startup ideas. Sometimes just someone posting a question to the group: "I'm trying to understand why this particular constraint qualification works, can anyone help me see it?" The format serves the purpose, not the other way around.
+</p>
+
+<h1 id="deliverables">What We Produce</h1>
+
+<p>
+The outputs of <a href="/">this forum</a> fall into two categories &ndash; direct and indirect.
+
+<h2 id="direct">Direct deliverables</h2>
+
+Direct deliverables are tangible products that emerge explicitly from our discussions and collaborations. These might include research papers that derive new theoretical results or insights from our explorations. For instance, our deep dive on duality might lead to a paper offering a new interpretation or a simpler proof of an existing result, or connecting duality in optimization to duality in some other mathematical context. We might develop software tools or optimization libraries that embody our understanding in useful form — not just implementing existing algorithms but creating new approaches inspired by our discussions.
+</p>
+
+<p>
+Some deliverables might be business-oriented: new business models that leverage optimization in novel ways, or even new companies founded by forum members. I've co-founded several ventures, and I know that deep technical understanding often reveals business opportunities that others miss. When you truly understand the structure of a problem, you can see solution approaches that create competitive moats. Finally, one long-term goal is to create documentation of genuine understanding—<span class="emph">perhaps a companion volume to Boyd and Vandenberghe that doesn't just prove theorems but explains what they really mean, offers multiple interpretations, shows connections across domains. This would be a major contribution to the field</span>.
+</p>
+
+<h2 id="indirect">Indirect deliverables</h2>
+
+<p>
+Indirect deliverables are equally important even though they're harder to measure. Through participation in <a href="/">this forum</a>, members will deepen their understanding in ways that make their own research more effective. A professor might finally grasp something about duality that allows them to formulate a research problem in a better way, leading to a breakthrough that would have been impossible with shallow understanding. A student might develop intuitions that make them much more effective at research, accelerating their entire career trajectory. Industry practitioners might solve problems they've been stuck on for months once they understand the underlying structure.
+</p>
+
+<p>
+Members will also find collaboration opportunities they wouldn't have encountered otherwise. Someone working on optimization in energy systems might discover that their problem structure is identical to someone else's problem in network design, and they collaborate on a solution that benefits both. Business opportunities might emerge as people realize their complementary expertise could create something valuable. And perhaps most importantly, members will develop a network of genuinely knowledgeable people they can turn to when they encounter difficult problems — not just people who know the standard techniques, but people who understand deeply and can offer real insight.
+</p>
+
+<h1 id="membership">Membership</h1>
+
+<p>
+We are selective about membership not because we want to be exclusive for its own sake, but because <a href="/">this forum</a> works only if participants share certain qualities. The most important quality is <span style="color: red;"><strong>self-awareness &ndash; you must recognize that despite your credentials and experience, there are fundamental aspects of convex optimization you don't truly understand</strong></span>. This is harder than it sounds. Most people who have taught a subject for years are invested in believing they understand it. Admitting &ldquo;I can derive the KKT conditions, but I don't really understand what they mean&rdquo; requires intellectual humility and honesty that many people lack.
+</p>
+
+<p>
+The second essential quality is <span style="color: red;"><strong>genuine curiosity</strong></span>. We're not interested in people who want to add another line to their CV or network for business purposes. We want people who are genuinely bothered by not understanding something, who lie awake thinking about why strong duality works, who get excited when they finally grasp a new interpretation of a familiar concept. This intrinsic motivation is what makes someone willing to put in the intellectual effort required for deep understanding.
+</p>
+
+<p>
+Third, members should <span style="color: red;"><strong>be able to contribute something valuable to the community</strong></span>, though "valuable" can take many forms. Obviously, if you're working on cutting-edge research or novel applications of optimization, that's valuable. But asking insightful questions is also valuable—sometimes the most valuable contribution is a naive-sounding question that forces everyone to rethink assumptions. Having a different domain perspective is valuable, because it reveals facets others haven't considered. Being willing to work through details carefully is valuable, because it keeps discussions grounded. Even just being an enthusiastic learner who amplifies others' energy is valuable.
+</p>
+
+<p>
+Finally, members should want to use their newfound understanding for something meaningful. This doesn't necessarily mean research papers or startups, though those are great. It could mean being a better teacher to your own students, passing on genuine understanding rather than mechanical procedures. It could mean solving important problems in your industry that require deep rather than superficial knowledge. It could mean pursuing understanding for its own sake because you find it personally enriching and meaningful. Whatever the application, it should matter to you—<a href="/">this forum</a> is for people who care about understanding, not just knowledge accumulation.
+</p>
+
+<p>
+Typical members will be professors who have taught AI, ML, or convex optimization, perhaps multiple times, and realized their students' questions revealed gaps in their own understanding. Researchers who use AI or optimization techniques in their work and want to move beyond black-box application to genuine comprehension. Industry practitioners who have implemented optimization systems and encountered situations where standard techniques fail, making them realize they need deeper understanding. PhD students or postdocs who took an AI or optimization course, did well, but recognize they only scratched the surface. Anyone who has engaged seriously with convex optimization and developed the self-awareness to know what they don't know.
+</p>
+
+<h1 id="join">Join Us</h1>
+
+<p>
+If you've read this far and found yourself nodding along—if you've felt that uncomfortable recognition that what you know is not the same as truly understanding, if you're curious about exploring these depths, if you want to be part of a community of genuinely inquisitive minds—we want to hear from you.
+</p>
+
+<p>
+The first step is simply to reach out. Tell us about your background in convex optimization &ndash; what you've studied, taught, or applied. More importantly, tell us about what you don't understand, what confuses you, what questions you wish you could answer but can't. Share what you hope to gain from participating in <a href="/">this forum</a>, and what you might be able to contribute. There's no formal application process, no credentials check — just a conversation to see if this is the right fit for both you and the community.
+</p>
+
+<p>
+Contact us at <a href="mailto:sunghee.yun@gmail.com">sunghee.yun@gmail.com</a>. Please start the email subject with <span class="emph">&ldquo;[Convex Optimization]&rdquo;</span>. Let's start the conversation. Let's explore these beautiful, deep, and sometimes frustrating ideas together. Let's move from knowing to understanding, from one dimension to a hundred dimensions, from mechanical application to genuine insight. The journey will be challenging—genuine understanding always is—but also profoundly and deeply rewarding.
+</p>
+
+<p>
+Welcome to <a href="/">Convex Optimization Forum</a>!
+</p>
+
+<p>
+Welcome to the pursuit of genuine understanding!
+</p>
+
+<hr>
+
+<footer>
+<p>&copy; 2024 Convex Optimization Forum. All rights reserved.</p>
+</footer>

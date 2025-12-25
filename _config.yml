@@ -16,7 +16,7 @@
 
 repository: sunghee-yun/sunghee-yun.github.io
 
-title: Convex Optimization Homepage
+title: Convex Optimization Forum
 email: sunghee.yun@gmail.com
 description: This is the space to discuss virtually every aspect of Convex Optimization.
 twitter_username: username
@@ -61,7 +61,7 @@ plugins:
 
 # Site Author
 author:
-  name             : "Convex Optimization"
+  name             : "Convex Optimization Forum"
   avatar           : "/assets/images/twisted-volumes.png"
   bio              : "Dual Problems"
   location         : "Silicon Valley, CA, USA"
