@@ -64,8 +64,8 @@ author:
   name             : "Convex Optimization Forum"
   avatar           : "/assets/images/twisted-volumes.png"
   bio              : "Dual Problems"
-  location         : "Silicon Valley, CA, USA"
-  email            : convex.optimization.99@gmail.com
+#  location         : "Silicon Valley, CA, USA"
+  email            : sunghee.yun@gmail.com
   links:
     - label: "GitHub"
       icon: "fa-brands fa-github"
