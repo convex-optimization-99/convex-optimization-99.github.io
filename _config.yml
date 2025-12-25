@@ -62,7 +62,7 @@ plugins:
 # Site Author
 author:
   name             : "Convex Optimization"
-  avatar           : "/assets/images/cvx-fcn-surface.jpg"
+  avatar           : "/assets/images/twisted-volumes.png"
   bio              : "Dual Problems"
   location         : "Silicon Valley, CA, USA"
   email            : convex.optimization.99@gmail.com
