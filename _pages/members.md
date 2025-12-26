@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Fri Dec 26 02:29:34 PST 2025
+last_modified_at: Fri Dec 26 03:49:03 PST 2025
 ---
 
 # Hongseok Kim
@@ -28,7 +28,7 @@ He has been an IEEE Senior Member since 2016.
 # Jaeseok Huh
 
 <div class="img-container">
-<img width="50%" src="/assets/images/bio-photos/jaeseok-01.jpeg">
+<img width="35%" src="/assets/images/bio-photos/jaeseok-02.jpeg">
 </div>
 
 [Jaeseok](https://www.linkedin.com/in/jaeseok-huh-556ab2126/){:target="_blank"} is an Assistant Professor in the Department of Industrial & Information Systems Engineering at [Soongsil University](https://ssu.ac.kr/){:target="_blank"}, where he leads the [Simulation-based Decision-Making Lab (SDM Lab)](https://sdm-lab-ssu.github.io/){:target="_blank"}. His research focuses on solving scheduling and optimization problems by integrating simulation, reinforcement learning, metaheuristics, and data-driven analytics to address decision-making challenges in manufacturing and industrial systems.
