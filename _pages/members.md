@@ -6,13 +6,13 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Fri Dec 26 02:13:20 PST 2025
+last_modified_at: Fri Dec 26 02:15:54 PST 2025
 ---
 
 # Hongseok Kim
 
 <div class="img-container">
-<img width="50%" src="/assets/images/bio-photos/hongseok-01.jpg">
+<img width="35%" src="/assets/images/bio-photos/hongseok-01.jpg">
 </div>
 
 [Hongseok](https://www.linkedin.com/in/hongseok-kim-09bb529/){:target="_blank"} is
