@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Fri Dec 26 03:49:03 PST 2025
+last_modified_at: Fri Dec 26 06:01:58 PST 2025
 ---
 
 # Hongseok Kim
@@ -112,7 +112,7 @@ Global Head of Research,
 Chief Applied Scientist & Senior Fellow.
 Before [Gauss Labs](https://www.gausslabs.ai/),
 he drove various AI technology and product developments and productionizations in the field of e-Commerce @ [Amazon.com, Inc.](https://www.amazon.com/)
-where one of his projects created a 200 USD revenue increase via [the Amazon Mobile Shopping App](https://www.amazon.com/b?ie=UTF8&node=17442765011).
+where one of his projects created a 200 million USD revenue increase via [the Amazon Mobile Shopping App](https://www.amazon.com/b?ie=UTF8&node=17442765011).
 Before Amazon, he worked for Software Research Center, Strategic Sales & Marketing Team,
 Design Technology (DT) Team & Computer-Aided Engineering (CAE) Team of [Samsung Semiconductor, Inc.](https://semiconductor.samsung.com/)
 where he developed diverse AI and optimization tools for semiconductor chip designers,
