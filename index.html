@@ -38,6 +38,15 @@ who feel the intellectual discomfort of realizing that
 what they thought they knew is actually just a thin veneer over depths they've never explored.
 </p>
 
+<h1 id="recent-posts">Recent Posts</h1>
+<ul>
+	{% for post in site.posts limit:10 %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a> @ {{ post.date | date: "%d-%b-%Y"}}
+		</li>
+	{% endfor %}
+</ul>
+
 <h1 id="philosophy">The Nature of Understanding</h1>
 
 <p>
@@ -61,15 +70,6 @@ In this strict sense&mdash;genuine, multi-faceted, from-first-principles underst
 <!--Perhaps only two: myself (<a href="https://sungheeyun.github.io">Sunghee Yun</a>, PhD from Stanford under Stephen Boyd) and Professor Boyd himself.-->
 And even that may be generous—there are corners and connections that even we continue to discover.
 </p>
-
-<!--h1 id="recent-posts">Recent Posts</h1>
-<ul>
-	{% for post in site.posts limit:10 %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a> @ {{ post.date | date: "%d-%b-%Y"}}
-		</li>
-	{% endfor %}
-</ul-->
 
 <h1 id="leadership">Who Leads This Forum</h1>
 
