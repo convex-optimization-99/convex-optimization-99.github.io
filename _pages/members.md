@@ -6,86 +6,8 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Thu Dec 25 21:45:02 PST 2025
+last_modified_at: Fri Dec 26 02:10:48 PST 2025
 ---
-
-<!--
-# Byoung-Il Bae
-
-<div class="img-container">
-<img width="30%" src="/assets/images/bio-photos/babang.jpg">
-</div>
-
-[Byoung-il](https://www.linkedin.com/in/byoung-il-bae-63b4a02a/) is an Assistant Professor of Neuroscience at the University of Connecticut School of Medicine.
-He specializes in brain development, leveraging insights from human genetic disorders and advanced model systems.
-He holds a Ph.D. in Neuroscience from Johns Hopkins University School of Medicine (2006) and a B.S. in Molecular Biology from Seoul National University (1998).
-Dr. Bae's academic journey includes a decade at Harvard Medical School as a Postdoctoral Fellow and Instructor in Pediatrics, followed by a role as an Associate Research Scientist in Neurosurgery at Yale School of Medicine.
-Since 2019, he has been leading neuroscience research at UConn Health.
-
-His expertise spans molecular and cell biology, with research focusing on the genetic and cellular mechanisms underlying cerebral development.
-His work has contributed to understanding cortical patterning, p53-mediated dysfunction in Huntington’s disease, and the evolution of cortical size.
-Dr. Bae has authored key publications, including studies on alternative splicing, GAPDH-mediated cytotoxicity, and genetic factors shaping the human brain.
-
-# Dayoung Jeong
-
-<div class="img-container">
-<img width="50%;" src="/assets/images/bio-photos/dayoung-00.jpeg">
-</div>
-
-[Dayoung](https://www.linkedin.com/in/dayoungjeong/) is an associate professor of law at Chungnam National University. She previously served as an assistant professor at Yeungnam University and has held visiting scholar positions at leading institutions, including the University of California, Berkeley, and Paris-Panthéon-Assas University.
-
-Before entering academia, she built a solid foundation in public service, working as a deputy director at both the Defense Acquisition Program Administration and the Korea Ministry of Government Legislation. She passed the South Korean bar exam in 2008 and completed her judicial training at the Judicial Research and Training Institute.
-
-Dayoung holds both bachelor's and master's degrees in law from Seoul National University. Drawing on her diverse background in academia, government, and legal practice, she offers a multidimensional perspective that bridges legal theory with practical policy insights in the context of the Korean legal system.
-
-# Gregory Hyung Jin Park
-
-<div class="img-container">
-<img width="30%" src="/assets/images/bio-photos/hyung-jin.jpeg">
-</div>
-
-[Gregory](https://www.linkedin.com/in/gregory-park-9231656b/)
-is a Senior Director at Korea Quantum Computing in Busan and the Founder/CTO of Quantum MicroMaterials Inc.
-His entrepreneurial career includes founding multiple technology ventures, serving as Founder, COO & CTO of Probus Medical Technologies since 2019, and as Founder & CEO of PYCh Science Inc. from 2014 to 2019.
-
-His professional background includes scientific research and industry experience, having worked as a Scientist at the Korea Basic Science Institute (KBSI) and as a Senior Engineer at Samsung Display, which branched out from the LCD Division of Samsung Electronics Co. Ltd. in 2012.
-
-Gregory earned his education at the University of California, Berkeley.
-His multifaceted career spans quantum computing, materials science, medical technologies, and display engineering, demonstrating his versatility and innovation across multiple high-tech domains.
-His expertise brings valuable insights to the intersection of quantum technologies and commercial applications, contributing to the advancement of cutting-edge technological developments in Korea and globally.
-
-# Gunsu Yun
-
-<div class="img-container">
-<img width="80%" src="/assets/images/bio-photos/gunsu-01.jpg">
-</div>
-
-[Gunsu](https://www.linkedin.com/in/gunsu-yun-77052475/) is a Professor of the Department of Physcis of POSTECH.
-He is a distinguished researcher specializing in plasma physics and magnetohydrodynamics (MHD).
-He earned his Ph.D. (2008) and M.S. (2004) in plasma physics from the California Institute of Technology and a B.S. (1998) from POSTECH.
-His research focuses on high-pressure plasma source technologies,
-strongly coupled plasma systems under extreme conditions, plasma-surface interactions, and MHD phenomena.
-
-His major research contributions include developing 2D microwave imaging diagnostics,
-discovering dynamic equilibria and phase transitions of MHD modes in fusion plasma,
-identifying a universal colliation mechanism for current-carrying flux tubes,
-and
-extending the gas breakdown law to high-frequency, high-pressure conditions.
-
-# Jae-Eun Paik
-
-<div class="img-container">
-<img width="50%" src="/assets/images/bio-photos/jae-eun.jpg">
-</div>
-
-[Jae-Eun](https://www.seoulphil.or.kr/spo/artist/detail?langCd=ko&menuFlag=MFLG0001&postNo=3324) is a distinguished mezzo-soprano known as "Korea's Carmen" for her acclaimed performances in this iconic role. She has performed internationally with Korean National Opera, Poland National Opera, and major American opera companies including Virginia Opera and Shreveport Opera. Her performances have been praised by The Washington Post for her "deeply appealing voice" and by The Chautauqua Daily for her "well produced dark sonority, vocal intensity and dramatic rightness."
-
-She has appeared in leading roles in operas including Carmen, Così fan tutte, Rigoletto, Madama Butterfly, Les Contes d'Hoffmann, and many others. Her concert work spans collaborations with New England Chamber Orchestra, KBS Orchestra, Seoul National University Orchestra, and Pohang City Orchestra, performing major works including Handel's Messiah, Mozart's Requiem, and Bach's Mass in B Minor. She has performed under renowned conductor Myung-Hun Chung in Mahler's Symphony No. 8 and Beethoven's Symphony No. 9.
-
-Her accolades include winning the Metropolitan Opera National Council Regional Award (2005), receiving "Singer of the Year" awards from Shreveport Opera (2004, 2005), and earning the Newcomer Award at the Korea Opera Awards (2009). She graduated from Seoul National University (B.M.) and earned her Master's degree and Professional Diploma at Mannes College of Music in New York City.
-
-She recently authored "Dear My Opera" (디어 마이 오페라), a book introducing eleven essential operas to make this art form more accessible to the public. Her work bridges high art and popular culture, demonstrating how classical music can serve as a gateway to understanding human emotions and cultural narratives. Her unique perspective on cultural communication and arts education brings valuable insights to discussions about technology's role in preserving and transforming artistic expression.
--->
 
 # Hongseok Kim
 
@@ -103,94 +25,6 @@ Dr. Hongseok Kim is one of the two recipients of the Korea Government Oversea Sc
 He received the Haedong Young Professor Award in 2016.
 He has been an IEEE Senior Member since 2016.
 
-<!--
-# Hyun Nam
-
-<div class="img-container">
-<img width="30%" src="/assets/images/bio-photos/hyun-01.jpg">
-</div>
-
-[Hyun](https://www.linkedin.com/in/hyunnam/) is a Partner at SEUM Law specializing in intellectual property, bankruptcy, criminal, and family law. He previously served as a Judge at various courts in South Korea, including the Jeonju District Court, Jeju Branch of Gwangju High Court, Western Branch of the Busan District Court, and Seoul Central District Court, where he handled various case types including criminal, bankruptcy, family, and civil appeals. He also worked as a Research Judge at the Supreme Court of Korea on the IP team.
-
-His extensive legal career spans nearly two decades, including serving as Secretary General for the Korea Patent Law Society. During his judicial career, he gained broad expertise across multiple practice areas. He was also a Visiting Scholar at IIT Chicago-Kent College of Law.
-
-Hyun received his B.S. in Chemical Technology from Seoul National University (1998) and earned his Attorney-at-Law License from the Judicial Research and Training Institute, the Supreme Court of the Republic of Korea (2005). He is licensed to practice law in South Korea and the U.S. state of Illinois. He currently serves as a Director of the Korea Patent Law Society, combining his technical background with legal expertise in his practice.
-
-# Natalie Huh
-
-<div class="img-container">
-<img width="50%" src="/assets/images/bio-photos/natalie-01.jpeg">
-</div>
-
-[Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/) is a Trial Attorney at Quinn Emanuel in Silicon Valley, specializing in intellectual property litigation.
-Her legal career includes experience as an Associate at White & Case LLP and an externship with Judge Edward M. Chen at the U.S. District Court for the Northern District of California.
-Before transitioning to law, she worked in finance as a Trader at JPMorgan Chase & Co. in Hong Kong and ANZ in Seoul, followed by a role as Product Manager at PIMCO.
-
-Her educational background spans both technical and legal fields, with a Doctor of Law (JD) from the University of California, Hastings College of the Law, an MBA from Stanford University Graduate School of Business, and a Bachelor of Engineering in Electrical Engineering and Computer Science from Korea Advanced Institute of Science and Technology (KAIST).
-
-Natalie holds multiple professional certifications, including Patent Attorney and Chartered Financial Analyst (CFA).
-She has authored publications on patent law and U.S. financial markets, including analyses of Congressional actions affecting patent holders and investment strategies for Silicon Valley companies.
-Her unique combination of technical expertise, financial acumen, and legal knowledge provides a multidisciplinary perspective on intellectual property and technology law issues.
-
-# Sang Min Nam
-
-<div class="img-container">
-<img width="50%" src="/assets/images/bio-photos/sangmin-02.png">
-</div>
-
-[Sang Min](https://www.linkedin.com/in/namsm/)
-is a board-certified ophthalmologist and physician-scientist specializing in cornea and external eye diseases,
-cataract surgery, and biomedical informatics.
-He serves as Co-director of Daechi Yonsei Eye Clinic in Seoul and as a Research Professor
-at CHA University School of Medicine.
-
-With a multidisciplinary academic background from Yonsei University, Severance Hospital, CHA University,
-and the University of California, San Francisco,
-he operates at the intersection of clinical medicine and advanced data science.
-He has contributed to the creation of AI-based tools for diagnosing disease using multimodal data,
-including combinations of medical imaging and clinical tests.
-His work spans conditions such as chronic kidney disease—using retinal images
-and urine dipstick data—and dry eye disease, analyzed through national health and nutrition survey datasets.
-
-His broader research interests lie in data-driven healthcare,
-where he leverages computational tools such as ML
-and network analysis to reveal hidden patterns and relationships across large-scale population datasets.
-His efforts aim to enhance early detection,
-enable personalized care, and promote preventive strategies in both systemic and ophthalmic health.
-He is the author of numerous peer-reviewed publications,
-holds patents in AI-assisted diagnostics, and serves in leadership roles within professional societies.
-He is committed to shaping a future in which algorithmic insight augments medical practice for smarter,
-more accessible, and human-centered care.
-
-# Seonhee Lim
-
-<div class="img-container">
-<img width="30%" src="/assets/images/bio-photos/seonhee-03.jpeg">
-</div>
-
-
-[Seonhee](https://www.math.snu.ac.kr/~lim/) is a Professor in the Department of Mathematical Sciences at Seoul National University. Her research focuses on homogeneous dynamics and number theory, geometric group theory, and the dynamics of group actions on trees and metric spaces of non-positive curvature. She specializes in group actions on homogeneous spaces with applications to number theory, lattices of Lie groups, entropy rigidity, and thermodynamics formalism.
-
-She is an active organizer of mathematical conferences and seminars, including the "Dynamics & Number Theory" seminar and various workshops on dynamical systems and number theory. Her international recognition is evidenced by numerous invited talks at prestigious institutions worldwide, including lectures at IISER-Pune in India, KIAS in Korea, universities in England, Germany, Switzerland, Singapore, Australia, and the United States.
-
-# Soojin Kim
-
-<div class="img-container">
-<img width="50%" src="/assets/images/bio-photos/soojin-01.jpeg">
-</div>
-
-[Soojin](https://www.linkedin.com/in/soojin-kim-cellmolbio/) is a Senior Scientist at Genentech with over a decade of specialized experience in iPSC-based neurodegenerative disease research.
-Her expertise centers on organelle pathobiology using iPSC-derived neurons and glial cells, combined with CRISPR/Cas9 genome editing and advanced imaging techniques.
-Her previous academic appointments include Postdoctoral Research Fellow positions at UC San Diego and Northwestern Memorial Hospital.
-
-Her research contributions include significant publications on organelle membrane contact sites in neurological diseases, mitochondrial dynamics and network regulation, and iPSC-based disease modeling.
-As a Silver medalist in the International Biology Olympiad, she demonstrated early scientific promise that has continued throughout her career.
-
-Soojin earned her Ph.D. in Neuroscience from Northwestern University, where she also completed a specialized management program for scientists at the Kellogg School of Management.
-She received her Bachelor of Science in Biological Sciences with a combined minor in Brain-Mind-Behavior from Seoul National University after graduating from Seoul Science High School.
-Her interdisciplinary background bridges neuroscience, cell biology, and translational research for drug discovery applications.
--->
-
 # Jaeseok Huh
 
 <div class="img-container">
@@ -198,7 +32,6 @@ Her interdisciplinary background bridges neuroscience, cell biology, and transla
 </div>
 
 [Jaeseok](https://www.linkedin.com/in/jaeseok-huh-556ab2126/){:target="_blank"} is an Assistant Professor in the Department of Industrial & Information Systems Engineering at [Soongsil University](https://ssu.ac.kr/){:target="_blank"}, where he leads the [Simulation-based Decision-Making Lab (SDM Lab)](https://sdm-lab-ssu.github.io/){:target="_blank"}. His research focuses on solving scheduling and optimization problems by integrating simulation, reinforcement learning, metaheuristics, and data-driven analytics to address decision-making challenges in manufacturing and industrial systems.
-
 He earned his Ph.D. from [Seoul National University](https://en.snu.ac.kr){:target="_blank"}, where he specialized in applying machine learning and optimization techniques to complex manufacturing systems. His doctoral research, conducted under the supervision of Prof. Jonghun Park, centered on intelligent scheduling methods for semiconductor manufacturing facilities.
 
 His research expertise spans several key areas: scheduling optimization for semiconductor and manufacturing systems, simulation-driven decision-making for performance evaluation and policy design, reinforcement learning for autonomous decision-making policies, metaheuristic algorithms including particle swarm optimization and genetic algorithms, and machine learning combined with data analytics for predictive modeling. He has made significant contributions to semiconductor packaging facility scheduling, particularly in developing deep reinforcement learning approaches that can handle large-scale scheduling problems with complex constraints such as re-entrant flows, sequence-dependent setups, and alternative routes.
@@ -207,6 +40,27 @@ With over 400 citations to his research work, Prof. Huh has published extensivel
 
 His lab at Soongsil University continues to advance the integration of artificial intelligence, simulation, and optimization to solve real-world manufacturing challenges, with particular emphasis on semiconductor production systems and smart factory applications. His work bridges theoretical advances in machine learning and practical industrial applications, making him a valuable contributor to discussions on optimization, AI-driven decision-making, and the future of intelligent manufacturing systems.
 
+# Kihwan Choi
+
+<div class="img-container">
+<img width="30%" src="/assets/images/bio-photos/kihwan-01.jpg">
+</div>
+
+[Kihwan](https://www.linkedin.com/in/kihwan-choi-b8939210/){:target="_blank"} is an Assistant Professor in the Department of Applied Artificial Intelligence at [Seoul National University of Science and Technology (SeoulTech)](https://www.seoultech.ac.kr/){:target="_blank"}. His research focuses on developing artificial intelligence technologies for medical imaging, with particular expertise in CT imaging, endoscopy, image restoration, noise reduction, and automated diagnosis systems.
+
+He earned his Ph.D. in Electrical Engineering from [Stanford University](https://www.stanford.edu/){:target="_blank"} (2014)
+where he worked under the supervision of [Prof. Stephen Boyd](https:web.stanford.edu/~boyd){:target="_blank"} on compressed sensing and optimization methods for medical imaging. During his doctoral studies, he also completed an M.S. in Statistics (2012) and an earlier M.S. in Electrical Engineering (2008) from Stanford. He holds B.S. and M.S. degrees in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr){:target="_blank"} (2004, 2006).
+Before joining SeoulTech in 2023, Prof. Choi served as a Senior Researcher at the [Korea Institute of Science and Technology (KIST)](https://eng.kist.re.kr/){:target="_blank"} from 2017 to 2023, and as a Staff Researcher at Samsung Advanced Institute of Technology from 2014 to 2017. His industry experience includes developing AI-based medical imaging solutions and advanced optimization algorithms for clinical applications.
+
+His research lab specializes in self-supervised learning-based image restoration and denoising techniques for low-dose CT imaging, addressing the critical challenge of minimizing patient radiation exposure while maintaining diagnostic image quality. This work overcomes the practical limitation of insufficient clinical training data by developing generalizable algorithms applicable across diverse clinical environments. Recent achievements include developing cyclic conditional diffusion models for cross-modal medical image synthesis and computer-aided diagnosis systems for colorectal cancer detection with explainable AI features to enhance clinical trust and usability.
+
+Prof. Choi has published extensively in leading journals including Medical Physics, Expert Systems with Applications, IEEE Journal of Selected Topics in Signal Processing, and Physics in Medicine and Biology. His pioneering work on compressed sensing-based cone-beam CT reconstruction using first-order methods, developed during his Stanford doctorate, has been widely cited and influenced subsequent research in accelerated medical imaging. He has also contributed to research on brain-computer interface (BCI) platforms, AR/VR device control, and medical robotics systems.
+
+<!--
+He holds multiple U.S. patents on deep learning-based image processing, autonomous driving model training, tomography reconstruction, and object recognition systems. His research projects have been supported by major funding agencies including the National Research Foundation of Korea, Ministry of Health and Welfare, and KIST. Most recently, he received the prestigious Young Investigator Grant from the National Research Foundation of Korea (2025-2028) for his work on cyclic generative AI and self-supervised learning models for soft tissue prediction from low-dose abdominal CT images.
+
+Prof. Choi's unique background spanning convex optimization theory (through his work with Stephen Boyd), compressed sensing, first-order methods, and cutting-edge deep learning positions him to contribute valuable perspectives on the intersection of classical optimization and modern AI approaches. His work demonstrates how foundational optimization principles continue to inform and enhance contemporary machine learning solutions in high-stakes applications like medical imaging.
+-->
 
 # Sunghee Yun
 
