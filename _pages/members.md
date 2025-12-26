@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Fri Dec 26 02:15:54 PST 2025
+last_modified_at: Fri Dec 26 02:29:34 PST 2025
 ---
 
 # Hongseok Kim
@@ -49,7 +49,7 @@ His lab at Soongsil University continues to advance the integration of artificia
 [Kihwan](https://www.linkedin.com/in/kihwan-choi-b8939210/){:target="_blank"} is an Assistant Professor in the Department of Applied Artificial Intelligence at [Seoul National University of Science and Technology (SeoulTech)](https://www.seoultech.ac.kr/){:target="_blank"}. His research focuses on developing artificial intelligence technologies for medical imaging, with particular expertise in CT imaging, endoscopy, image restoration, noise reduction, and automated diagnosis systems.
 
 He earned his Ph.D. in Electrical Engineering from [Stanford University](https://www.stanford.edu/){:target="_blank"} (2014)
-where he worked under the supervision of [Prof. Stephen Boyd](https:web.stanford.edu/~boyd){:target="_blank"} on compressed sensing and optimization methods for medical imaging. During his doctoral studies, he also completed an M.S. in Statistics (2012) and an earlier M.S. in Electrical Engineering (2008) from Stanford. He holds B.S. and M.S. degrees in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr){:target="_blank"} (2004, 2006).
+where he worked under the supervision of [Prof. Stephen Boyd](https:web.stanford.edu/~boyd){:target="_blank"} and Lei Xing on compressed sensing and optimization methods for medical imaging. During his doctoral studies, he also completed an M.S. in Statistics (2012) and an earlier M.S. in Electrical Engineering (2008) from Stanford. He holds B.S. and M.S. degrees in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr){:target="_blank"} (2004, 2006).
 Before joining SeoulTech in 2023, Prof. Choi served as a Senior Researcher at the [Korea Institute of Science and Technology (KIST)](https://eng.kist.re.kr/){:target="_blank"} from 2017 to 2023, and as a Staff Researcher at Samsung Advanced Institute of Technology from 2014 to 2017. His industry experience includes developing AI-based medical imaging solutions and advanced optimization algorithms for clinical applications.
 
 His research lab specializes in self-supervised learning-based image restoration and denoising techniques for low-dose CT imaging, addressing the critical challenge of minimizing patient radiation exposure while maintaining diagnostic image quality. This work overcomes the practical limitation of insufficient clinical training data by developing generalizable algorithms applicable across diverse clinical environments. Recent achievements include developing cyclic conditional diffusion models for cross-modal medical image synthesis and computer-aided diagnosis systems for colorectal cancer detection with explainable AI features to enhance clinical trust and usability.
