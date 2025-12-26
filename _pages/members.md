@@ -6,13 +6,13 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Fri Dec 26 02:10:48 PST 2025
+last_modified_at: Fri Dec 26 02:13:20 PST 2025
 ---
 
 # Hongseok Kim
 
 <div class="img-container">
-<img width="30%" src="/assets/images/bio-photos/hongseok-01.jpg">
+<img width="50%" src="/assets/images/bio-photos/hongseok-01.jpg">
 </div>
 
 [Hongseok](https://www.linkedin.com/in/hongseok-kim-09bb529/){:target="_blank"} is
@@ -28,7 +28,7 @@ He has been an IEEE Senior Member since 2016.
 # Jaeseok Huh
 
 <div class="img-container">
-<img width="30%" src="/assets/images/bio-photos/jaeseok-01.jpeg">
+<img width="50%" src="/assets/images/bio-photos/jaeseok-01.jpeg">
 </div>
 
 [Jaeseok](https://www.linkedin.com/in/jaeseok-huh-556ab2126/){:target="_blank"} is an Assistant Professor in the Department of Industrial & Information Systems Engineering at [Soongsil University](https://ssu.ac.kr/){:target="_blank"}, where he leads the [Simulation-based Decision-Making Lab (SDM Lab)](https://sdm-lab-ssu.github.io/){:target="_blank"}. His research focuses on solving scheduling and optimization problems by integrating simulation, reinforcement learning, metaheuristics, and data-driven analytics to address decision-making challenges in manufacturing and industrial systems.
@@ -43,7 +43,7 @@ His lab at Soongsil University continues to advance the integration of artificia
 # Kihwan Choi
 
 <div class="img-container">
-<img width="30%" src="/assets/images/bio-photos/kihwan-01.jpg">
+<img width="50%" src="/assets/images/bio-photos/kihwan-01.jpg">
 </div>
 
 [Kihwan](https://www.linkedin.com/in/kihwan-choi-b8939210/){:target="_blank"} is an Assistant Professor in the Department of Applied Artificial Intelligence at [Seoul National University of Science and Technology (SeoulTech)](https://www.seoultech.ac.kr/){:target="_blank"}. His research focuses on developing artificial intelligence technologies for medical imaging, with particular expertise in CT imaging, endoscopy, image restoration, noise reduction, and automated diagnosis systems.
