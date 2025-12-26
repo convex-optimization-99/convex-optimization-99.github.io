@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Tue Sep  9 02:06:11 PDT 2025
+last_modified_at: Thu Dec 25 21:45:02 PST 2025
 ---
 
 <!--
@@ -190,6 +190,23 @@ Soojin earned her Ph.D. in Neuroscience from Northwestern University, where she 
 She received her Bachelor of Science in Biological Sciences with a combined minor in Brain-Mind-Behavior from Seoul National University after graduating from Seoul Science High School.
 Her interdisciplinary background bridges neuroscience, cell biology, and translational research for drug discovery applications.
 -->
+
+# Jaeseok Huh
+
+<div class="img-container">
+<img width="30%" src="/assets/images/bio-photos/jaeseok-01.jpeg">
+</div>
+
+[Jaeseok](https://www.linkedin.com/in/jaeseok-huh-556ab2126/){:target="_blank"} is an Assistant Professor in the Department of Industrial & Information Systems Engineering at [Soongsil University](https://ssu.ac.kr/){:target="_blank"}, where he leads the [Simulation-based Decision-Making Lab (SDM Lab)](https://sdm-lab-ssu.github.io/){:target="_blank"}. His research focuses on solving scheduling and optimization problems by integrating simulation, reinforcement learning, metaheuristics, and data-driven analytics to address decision-making challenges in manufacturing and industrial systems.
+
+He earned his Ph.D. from [Seoul National University](https://en.snu.ac.kr){:target="_blank"}, where he specialized in applying machine learning and optimization techniques to complex manufacturing systems. His doctoral research, conducted under the supervision of Prof. Jonghun Park, centered on intelligent scheduling methods for semiconductor manufacturing facilities.
+
+His research expertise spans several key areas: scheduling optimization for semiconductor and manufacturing systems, simulation-driven decision-making for performance evaluation and policy design, reinforcement learning for autonomous decision-making policies, metaheuristic algorithms including particle swarm optimization and genetic algorithms, and machine learning combined with data analytics for predictive modeling. He has made significant contributions to semiconductor packaging facility scheduling, particularly in developing deep reinforcement learning approaches that can handle large-scale scheduling problems with complex constraints such as re-entrant flows, sequence-dependent setups, and alternative routes.
+
+With over 400 citations to his research work, Prof. Huh has published extensively in leading journals including IEEE Transactions on Automation Science and Engineering, IEEE Access, and Sustainability. His notable publications include groundbreaking work on reinforcement learning approaches to robust scheduling of semiconductor manufacturing facilities and scalable scheduling methods using deep reinforcement learning. He has also contributed to research on unmanned combat aerial vehicles, large-scale automated storage and retrieval systems, and interactive visualization of manufacturing schedules.
+
+His lab at Soongsil University continues to advance the integration of artificial intelligence, simulation, and optimization to solve real-world manufacturing challenges, with particular emphasis on semiconductor production systems and smart factory applications. His work bridges theoretical advances in machine learning and practical industrial applications, making him a valuable contributor to discussions on optimization, AI-driven decision-making, and the future of intelligent manufacturing systems.
+
 
 # Sunghee Yun
 
