@@ -1,7 +1,7 @@
 ---
 title: "First Thoughts on Convex Optimization - An Accessible Journey"
 date: Thu Dec 25 19:21:03 PST 2025
-last_modified_at: Thu Dec 25 20:12:25 PST 2025
+last_modified_at: Sun Dec 28 05:56:56 PST 2025
 permalink: /first-thoughts/1
 categories:
  - blog
@@ -46,7 +46,9 @@ As I launch [this forum on Convex Optimization](/), I wanted to share something 
 You can find the full article here - [**Convex Optimization - An Accessible Introduction**](https://sungheeyun.github.io/math/cvxopt)
 -->
 
-You can find the full article here - [**When Every Path Leads to Success – The Convex Optimization**](https://sungheeyun.github.io/math/cvxopt)
+You can find the full article here:
+
+[**<span style="color: red;">When Every Path Leads to Success – The Convex Optimization</span>**](https://sungheeyun.github.io/math/cvxopt)
 
 # What Makes This Different?
 
@@ -101,7 +103,7 @@ This article represents one approach &ndash; making convex optimization accessib
 
 <!--
 The article gives you foundations. The forum gives you community. Together, they offer something neither could provide alone - the opportunity to move from knowing to understanding, from mechanical application to genuine insight, from one-dimensional knowledge to multi-dimensional comprehension.
-To be more precise, way more than *multi-dimensional* understanding, I mean, multi-dimensionality is understatement considering the true level of understanding! 
+To be more precise, way more than *multi-dimensional* understanding, I mean, multi-dimensionality is understatement considering the true level of understanding!
 
 ---
 -->

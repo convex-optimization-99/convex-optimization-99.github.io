@@ -1,7 +1,7 @@
 ---
 title: "The Mathematical Rigor We Crave - A Deep Dive into Convex Optimization"
 date: Thu Dec 25 20:12:59 PST 2025
-last_modified_at: Thu Dec 25 20:46:07 PST 2025
+last_modified_at: Sun Dec 28 05:57:12 PST 2025
 permalink: /first-thoughts/2
 categories:
  - blog
@@ -47,7 +47,9 @@ But let me be very honest about this &ndash; <span class="emph">while accessibil
 
 This is what I love. This is where I live. And I've written something for those of you who share this passion.
 
-You can find the complete rigorous treatment here: [**Convex Optimization - Rigorous Mathematical Foundations**](https://sungheeyun.github.io/math/rig/convex-optimization)
+You can find the complete rigorous treatment here:
+
+[**<span style="color: red;">Convex Optimization - Rigorous Mathematical Foundations</span>**](https://sungheeyun.github.io/math/rig/convex-optimization)
 
 # Why Rigor Matters
 
