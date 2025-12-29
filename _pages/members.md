@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Mon Dec 29 11:32:00 PST 2025
+last_modified_at: Mon Dec 29 11:42:49 PST 2025
 ---
 
 # Hongseok Kim
@@ -111,45 +111,6 @@ and
 Advisor
 @ <a target="_blank" href="https://www.cryptolab.co.kr/en/home/">CryptoLab, Inc.</a>.
 
-<!--
-He holds M.S. &amp; Ph.D.
-in <a target="_blank" href="https://ee.stanford.edu/">Electrical Engineering</a>
-from <a target="_blank" href="https://www.stanford.edu/">Stanford University</a>
-and
-B.S.
-in <a target="_blank" href="https://ece.snu.ac.kr/en">Electrical Engineering</a>
-from <a target="_blank" href="https://en.snu.ac.kr">Seoul National University</a>.
--->
-
-<!--
-Before founding the new AI biotech company,
-he co-founded [Gauss Labs, Inc.](https://www.gausslabs.ai/), an industrial AI company,
-built and ran the US Headquarters of [Gauss Labs](https://www.gausslabs.ai/),
-spearheaded research & development of the core technology & products as CTO,
-Global Head of Research,
-Chief Applied Scientist & Senior Fellow.
-Before [Gauss Labs](https://www.gausslabs.ai/),
-he drove various AI technology and product developments and productionizations in the field of e-Commerce @ [Amazon.com, Inc.](https://www.amazon.com/)
-where one of his projects created a 200 million USD revenue increase via [the Amazon Mobile Shopping App](https://www.amazon.com/b?ie=UTF8&node=17442765011).
-Before Amazon, he worked for Software Research Center, Strategic Sales & Marketing Team,
-Design Technology (DT) Team & Computer-Aided Engineering (CAE) Team of [Samsung Semiconductor, Inc.](https://semiconductor.samsung.com/)
-where he developed diverse AI and optimization tools for semiconductor chip designers,
-manufacturing engineers &amp; test engineers where many engineers
-still use the circuit optimization tools and generic AI optimization platform, dubbed iOpt, every day.
--->
-<!--He has extensive industry and academic experience and expertise in AI and Convex Optimization,
-having worked for Samsung Electronics as Senior &amp; Principal Engineer,
-<a href="http://amazon.com">Amazon.com, Inc.</a> as Senior Applied Scientist,
-and
-founded <a href="https://www.gausslabs.ai/">Gauss Labs Inc.</a> running US Headquarters and leading R&amp;D of the enterprise
-as CTO, Chief Applied Scientist &amp; Senior Fellow.-->
-<!--He also has held leadership roles at <a href="https://www.skhynix.com/">SK hynix Inc.</a> as Fellow and Vice President (VP)
-and led AI projects at <a href="http://amazon.com">Amazon.com, Inc.</a> that generated over 200MM USD in revenue.-->
-
-<!--
-[Sunghee](https://sungheeyun.github.io/){:target="_blank"} is Co-Founder & CTO of [Erudio Bio, Inc.](https://www.erudio.bio){:target="_blank"} (California, USA) and Co-Founder & CEO of [Erudio Bio Korea, Inc.](https://sungheeyun-erudio.github.io/){:target="_blank"}, pioneering AI-powered biotech through the company's VSA platform and bioTCAD technology. He serves as Leader of the [Silicon Valley Privacy-Preserving AI Forum (K-PAI)](https://k-privateai.github.io){:target="_blank"}, which he co-founded to advance privacy-preserving AI technologies and foster collaboration among Korean AI professionals in Silicon Valley. He holds multiple advisory and leadership positions including Visiting Professor at Sogang University's Department of Electronic Engineering, Advisory Professor at DGIST's Department of Electrical Engineering & Computer Science, Global Advisory Board Member at Sogang University's Brain-Inspired Intelligence System Semiconductor program, Chief Business Development Officer at WeStory.ai, and Advisor at CryptoLab, Inc. He is also a KFAS-Salzburg Global Leadership Initiative Fellow and serves on the AI-Korean Medicine Integration Initiative Task Force at The Association of Korean Medicine.
--->
-
 <a href="https://sungheeyun.github.io/">He</a> earned his Ph.D. and M.S.
 in <a target="_blank" href="https://ee.stanford.edu/">Electrical Engineering</a>
 from [Stanford University](https://www.stanford.edu/){:target="_blank"} under the supervision of [Professor Stephen Boyd](https://web.stanford.edu/~boyd){:target="_blank"}, making him Boyd's first Korean doctoral student. His dissertation focused on convex optimization applied to semiconductor design, establishing foundational work that continues to influence optimization applications across multiple industries. He holds a B.S.
@@ -158,6 +119,12 @@ in <a target="_blank" href="https://ece.snu.ac.kr/en">Electrical Engineering</a>
 <!--through the prestigious Korean government alternative military service program for exceptional scientists and engineers-->
 where he spent 12 years in the Computer-Aided Engineering (CAE) Team, Design Technology (DT) Team, Strategic Sales & Marketing Team, and Software Research Center. During this time, he developed diverse AI and optimization tools for semiconductor chip designers, manufacturing engineers, and test engineers, including the widely-used iOpt platform—a generic AI optimization framework that remains in daily use by hundreds of Samsung engineers.
 
+<!--
 His career trajectory demonstrates a consistent pattern of applying deep optimization theory to create transformative practical solutions. At [Amazon.com, Inc.](https://www.aboutamazon.com/){:target="_blank"}, he served as Senior Applied Scientist, driving various AI technology developments and productionizations in e-commerce, including time-series anomaly detection, recommender systems, and reinforcement learning applications. One of his projects generated over $200 million in revenue through innovations in the Amazon Mobile Shopping App, demonstrating how rigorous optimization methods can create massive business impact. He subsequently co-founded [Gauss Labs, Inc.](https://www.gausslabs.ai/){:target="_blank"}, an industrial AI company where he built and ran the US Headquarters while serving as CTO, Global Head of Research, Chief Applied Scientist, and Senior Fellow. At Gauss Labs, which became SK Group's first AI company, he spearheaded research and development of core technologies and products that brought advanced optimization and AI capabilities to industrial manufacturing applications.
 
 Beyond his corporate and entrepreneurial ventures, Sunghee has emerged as a thought leader and educator in the AI and optimization communities. In 2025 alone, he delivered 53 AI special lectures, seminars, and corporate consultations across Korea, US, and internationally, engaging with professors, researchers, and industry leaders. These extensive interactions revealed a critical gap: most people who teach and use convex optimization lack genuine, multi-dimensional understanding of the field's foundational concepts. This realization inspired him to establish the [Convex Optimization Forum](/), dedicated to pursuing deeper understanding beyond mechanical knowledge. His work bridges technical excellence with humanistic inquiry—he maintains active interests in philosophy, theology, and the intersection of mathematics with consciousness and meaning-creation. Through [K-PAI](https://k-privateai.github.io/seminar-reflections/13){:target="_blank"}, Erudio Bio, and his various advisory roles, he continues to advance both the theoretical foundations and practical applications of AI and optimization while fostering communities dedicated to rigorous intellectual exploration. His mathematical genealogy traces through Stephen Boyd back to Gauss, Euler, and Fourier, giving him an Erdős number of 3.
+-->
+
+He subsequently co-founded [Gauss Labs, Inc.](https://www.gausslabs.ai/){:target="_blank"}, SK Group's first AI company, where he built and ran the US Headquarters while serving as CTO, Global Head of Research, Chief Applied Scientist, and Senior Fellow, spearheading research and development of core technologies bringing advanced optimization and AI capabilities to industrial manufacturing. This experience laid the groundwork for his current venture at [Erudio Bio](https://www.erudio.bio/){:target="_blank"}, where he applies the same rigorous optimization principles that revolutionized semiconductor design to the challenges of drug discovery and precision medicine. Erudio Bio's bioTCAD platform represents a paradigm shift in pharmaceutical development, using AI and computational methods to predict drug efficacy, identify biomarkers, and accelerate the path from discovery to clinical application. His leadership at Erudio Bio has positioned the company at the forefront of AI-powered biotech innovation, culminating in significant recognition including the [Gates Foundation $1 million Award](https://www.mt.co.kr/tech/2025/12/15/2025121200524048774){:target="_blank"} and prominent speaking engagements at major international forums such as G-Bio Week 2025 and IFEZ X K-BioX ABDD Summit, where he presented on &ldquo;The AI Metamorphosis - Navigating New Frontiers in Technology, Society, and Human Experience.&rdquo;
+
+Beyond his corporate and entrepreneurial ventures, Sunghee has emerged as a thought leader and educator bridging AI, optimization, philosophy, and ethics. In 2025 alone, he delivered over 53 AI special lectures, seminars, and corporate consultations across Korea, the US, and internationally at institutions including Seoul National University, KAIST, POSTECH, Korea University Business School, Stanford University, and numerous government and industry forums. These extensive interactions revealed a critical gap: most people who teach and use convex optimization lack genuine, multi-dimensional understanding of the field's foundational concepts. This realization inspired him to establish the [Convex Optimization Forum](/){:target="_blank"}, dedicated to pursuing deeper understanding beyond mechanical knowledge. Through [K-PAI](https://k-privateai.github.io/seminar-reflections/13){:target="_blank"}, which has become widely recognized throughout Silicon Valley's Korean community and beyond, Erudio Bio, and his various advisory roles, he continues to advance both the theoretical foundations and practical applications of AI and optimization while fostering communities dedicated to rigorous intellectual exploration. His work bridges technical excellence with humanistic inquiry—maintaining active interests in philosophy, theology, and the intersection of mathematics with consciousness and meaning-creation. His mathematical genealogy traces through Stephen Boyd back to Gauss, Euler, and Fourier, giving him an Erdős number of 3.
