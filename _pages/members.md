@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Fri Dec 26 06:01:58 PST 2025
+last_modified_at: Mon Dec 29 11:32:00 PST 2025
 ---
 
 # Hongseok Kim
@@ -39,6 +39,20 @@ His research expertise spans several key areas: scheduling optimization for semi
 With over 400 citations to his research work, Prof. Huh has published extensively in leading journals including IEEE Transactions on Automation Science and Engineering, IEEE Access, and Sustainability. His notable publications include groundbreaking work on reinforcement learning approaches to robust scheduling of semiconductor manufacturing facilities and scalable scheduling methods using deep reinforcement learning. He has also contributed to research on unmanned combat aerial vehicles, large-scale automated storage and retrieval systems, and interactive visualization of manufacturing schedules.
 
 His lab at Soongsil University continues to advance the integration of artificial intelligence, simulation, and optimization to solve real-world manufacturing challenges, with particular emphasis on semiconductor production systems and smart factory applications. His work bridges theoretical advances in machine learning and practical industrial applications, making him a valuable contributor to discussions on optimization, AI-driven decision-making, and the future of intelligent manufacturing systems.
+
+# Jong-Han Kim
+
+<div class="img-container">
+<img width="30%" src="/assets/images/bio-photos/jong-han-01.jpg">
+</div>
+
+[Jong-Han](https://jonghank.github.io/){:target="_blank"} is an Associate Professor in the Department of Aerospace Engineering at [Inha University](https://www.inha.ac.kr){:target="_blank"}. His research bridges control theory, optimization, and aerospace applications, with particular focus on decentralized optimal control, spacecraft guidance and control, and first-order optimization methods for real-time aerospace applications.
+
+He earned his Ph.D. in Aeronautics and Astronautics from [Stanford University](https://www.stanford.edu/){:target="_blank"}, where he worked under the supervision of Professor Sanjay Lall with Professor Stephen Boyd serving as co-advisor. His doctoral research centered on decentralized and cooperative optimal control problems, developing fundamental theory for separable optimal control and quadratically invariant systems. His research expertise spans decentralized and cooperative optimal control for multi-agent systems, spacecraft attitude control and trajectory optimization using convex optimization techniques, powered descent guidance for planetary landing missions, first-order optimization methods with expansive projection for handling nonconvex constraints, and control allocation algorithms for aerospace vehicles. His work uniquely combines rigorous optimization theory with practical aerospace engineering challenges.
+
+Prof. Kim has made significant contributions to optimal control theory, particularly in establishing conditions under which separable two-player optimal control problems admit explicit solutions. His 2015 IEEE Transactions on Automatic Control paper "Explicit Solutions to Separable Problems in Optimal Cooperative Control" provided fundamental theoretical results that have influenced subsequent work in distributed control. More recently, his research on powered descent guidance using first-order methods with expansive projection has introduced novel approaches to handling nonconvex constraints directly, rather than relying on traditional relaxation techniques like lossless convexification. His recent work on spacecraft attitude control demonstrates practical applications of convex optimization to real-world aerospace systems, developing control allocation algorithms using linear programming and quadratic programming that optimize thruster force distribution for spacecraft maneuvering.
+
+Prof. Kim's teaching portfolio includes courses on Optimization (ASE7030), Optimal Control (ASE6029), Machine Learning (LEO6006), Control Design (ASE3093), and foundational courses in computation and linear algebra. His research has been supported by the Korea government through multiple grants including the KSLV-II Enhancement Program, Space Challenge Program, and KRIT grant for Reusable Unmanned Space Vehicle Research. His work bridges theoretical advances in optimization and control with practical aerospace applications, making him an ideal contributor to discussions on how convex optimization fundamentals connect to cutting-edge aerospace engineering challenges.
 
 # Kihwan Choi
 
@@ -96,6 +110,8 @@ Chief Business Development Officer (CBDO)
 and
 Advisor
 @ <a target="_blank" href="https://www.cryptolab.co.kr/en/home/">CryptoLab, Inc.</a>.
+
+<!--
 He holds M.S. &amp; Ph.D.
 in <a target="_blank" href="https://ee.stanford.edu/">Electrical Engineering</a>
 from <a target="_blank" href="https://www.stanford.edu/">Stanford University</a>
@@ -103,7 +119,9 @@ and
 B.S.
 in <a target="_blank" href="https://ece.snu.ac.kr/en">Electrical Engineering</a>
 from <a target="_blank" href="https://en.snu.ac.kr">Seoul National University</a>.
+-->
 
+<!--
 Before founding the new AI biotech company,
 he co-founded [Gauss Labs, Inc.](https://www.gausslabs.ai/), an industrial AI company,
 built and ran the US Headquarters of [Gauss Labs](https://www.gausslabs.ai/),
@@ -118,6 +136,7 @@ Design Technology (DT) Team & Computer-Aided Engineering (CAE) Team of [Samsung 
 where he developed diverse AI and optimization tools for semiconductor chip designers,
 manufacturing engineers &amp; test engineers where many engineers
 still use the circuit optimization tools and generic AI optimization platform, dubbed iOpt, every day.
+-->
 <!--He has extensive industry and academic experience and expertise in AI and Convex Optimization,
 having worked for Samsung Electronics as Senior &amp; Principal Engineer,
 <a href="http://amazon.com">Amazon.com, Inc.</a> as Senior Applied Scientist,
@@ -128,21 +147,17 @@ as CTO, Chief Applied Scientist &amp; Senior Fellow.-->
 and led AI projects at <a href="http://amazon.com">Amazon.com, Inc.</a> that generated over 200MM USD in revenue.-->
 
 <!--
-# Yoonhak Baek
-
-<div class="img-container">
-<img width="80%" src="/assets/images/bio-photos/yoonhak-00.jpeg">
-</div>
-
-[Yoonhak](https://www.chosun.com/site/data/html_dir/2018/08/03/2018080300096.html) is a conductor and professor @ Yeungnam University, Korea.
-He used to serve as the Artistic Director @ Concert Opera Philadelphia and Associate Conductor &amp; Chorus Master @ Opera Delaware,
-while also being the Music Director @ Gloria Youth Orchestra in New Jersey.
-He has conducted major orchestras including Seoul Philharmonic, Opera Delaware Orchestra, and Sofia Festival Orchestra,
-specializing in both traditional and contemporary repertoire.
-He has received recommendations from notable figures including Grammy Award winner Dr. Jennifer Higdon
-and composer Unsuk Chin.
-His educational background includes
-an Artistic Diploma in Orchestral Conducting from Curtis Institute of Music, M.M. in Opera Coaching from Temple University,
-and B.S. in Electrical Engineering from Seoul National University,
-having transitioned from engineering to music after his undergraduate studies.
+[Sunghee](https://sungheeyun.github.io/){:target="_blank"} is Co-Founder & CTO of [Erudio Bio, Inc.](https://www.erudio.bio){:target="_blank"} (California, USA) and Co-Founder & CEO of [Erudio Bio Korea, Inc.](https://sungheeyun-erudio.github.io/){:target="_blank"}, pioneering AI-powered biotech through the company's VSA platform and bioTCAD technology. He serves as Leader of the [Silicon Valley Privacy-Preserving AI Forum (K-PAI)](https://k-privateai.github.io){:target="_blank"}, which he co-founded to advance privacy-preserving AI technologies and foster collaboration among Korean AI professionals in Silicon Valley. He holds multiple advisory and leadership positions including Visiting Professor at Sogang University's Department of Electronic Engineering, Advisory Professor at DGIST's Department of Electrical Engineering & Computer Science, Global Advisory Board Member at Sogang University's Brain-Inspired Intelligence System Semiconductor program, Chief Business Development Officer at WeStory.ai, and Advisor at CryptoLab, Inc. He is also a KFAS-Salzburg Global Leadership Initiative Fellow and serves on the AI-Korean Medicine Integration Initiative Task Force at The Association of Korean Medicine.
 -->
+
+<a href="https://sungheeyun.github.io/">He</a> earned his Ph.D. and M.S.
+in <a target="_blank" href="https://ee.stanford.edu/">Electrical Engineering</a>
+from [Stanford University](https://www.stanford.edu/){:target="_blank"} under the supervision of [Professor Stephen Boyd](https://web.stanford.edu/~boyd){:target="_blank"}, making him Boyd's first Korean doctoral student. His dissertation focused on convex optimization applied to semiconductor design, establishing foundational work that continues to influence optimization applications across multiple industries. He holds a B.S.
+in <a target="_blank" href="https://ece.snu.ac.kr/en">Electrical Engineering</a> from
+[Seoul National University](https://en.snu.ac.kr){:target="_blank"}. Following his doctorate, he joined Samsung Semiconductor,
+<!--through the prestigious Korean government alternative military service program for exceptional scientists and engineers-->
+where he spent 12 years in the Computer-Aided Engineering (CAE) Team, Design Technology (DT) Team, Strategic Sales & Marketing Team, and Software Research Center. During this time, he developed diverse AI and optimization tools for semiconductor chip designers, manufacturing engineers, and test engineers, including the widely-used iOpt platform—a generic AI optimization framework that remains in daily use by hundreds of Samsung engineers.
+
+His career trajectory demonstrates a consistent pattern of applying deep optimization theory to create transformative practical solutions. At [Amazon.com, Inc.](https://www.aboutamazon.com/){:target="_blank"}, he served as Senior Applied Scientist, driving various AI technology developments and productionizations in e-commerce, including time-series anomaly detection, recommender systems, and reinforcement learning applications. One of his projects generated over $200 million in revenue through innovations in the Amazon Mobile Shopping App, demonstrating how rigorous optimization methods can create massive business impact. He subsequently co-founded [Gauss Labs, Inc.](https://www.gausslabs.ai/){:target="_blank"}, an industrial AI company where he built and ran the US Headquarters while serving as CTO, Global Head of Research, Chief Applied Scientist, and Senior Fellow. At Gauss Labs, which became SK Group's first AI company, he spearheaded research and development of core technologies and products that brought advanced optimization and AI capabilities to industrial manufacturing applications.
+
+Beyond his corporate and entrepreneurial ventures, Sunghee has emerged as a thought leader and educator in the AI and optimization communities. In 2025 alone, he delivered 53 AI special lectures, seminars, and corporate consultations across Korea, US, and internationally, engaging with professors, researchers, and industry leaders. These extensive interactions revealed a critical gap: most people who teach and use convex optimization lack genuine, multi-dimensional understanding of the field's foundational concepts. This realization inspired him to establish the [Convex Optimization Forum](/), dedicated to pursuing deeper understanding beyond mechanical knowledge. His work bridges technical excellence with humanistic inquiry—he maintains active interests in philosophy, theology, and the intersection of mathematics with consciousness and meaning-creation. Through [K-PAI](https://k-privateai.github.io/seminar-reflections/13){:target="_blank"}, Erudio Bio, and his various advisory roles, he continues to advance both the theoretical foundations and practical applications of AI and optimization while fostering communities dedicated to rigorous intellectual exploration. His mathematical genealogy traces through Stephen Boyd back to Gauss, Euler, and Fourier, giving him an Erdős number of 3.
