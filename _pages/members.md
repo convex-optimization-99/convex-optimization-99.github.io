@@ -6,9 +6,10 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Mon Dec 29 11:42:49 PST 2025
+last_modified_at: Tue Dec 30 02:27:59 PST 2025
 ---
 
+<!--
 # Hongseok Kim
 
 <div class="img-container">
@@ -24,6 +25,7 @@ His current research interests include AI and machine learning, optimization and
 Dr. Hongseok Kim is one of the two recipients of the Korea Government Oversea Scholarship during 2005-2008.
 He received the Haedong Young Professor Award in 2016.
 He has been an IEEE Senior Member since 2016.
+-->
 
 # Jaeseok Huh
 
