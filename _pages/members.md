@@ -6,7 +6,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-last_modified_at: Tue Dec 30 02:27:59 PST 2025
+last_modified_at: Tue Dec 30 08:17:21 PST 2025
 ---
 
 <!--
@@ -45,7 +45,7 @@ His lab at Soongsil University continues to advance the integration of artificia
 # Jong-Han Kim
 
 <div class="img-container">
-<img width="30%" src="/assets/images/bio-photos/jong-han-01.jpg">
+<img width="35%" src="/assets/images/bio-photos/jong-han-01.jpg">
 </div>
 
 [Jong-Han](https://jonghank.github.io/){:target="_blank"} is an Associate Professor in the Department of Aerospace Engineering at [Inha University](https://www.inha.ac.kr){:target="_blank"}. His research bridges control theory, optimization, and aerospace applications, with particular focus on decentralized optimal control, spacecraft guidance and control, and first-order optimization methods for real-time aerospace applications.
@@ -59,7 +59,7 @@ Prof. Kim's teaching portfolio includes courses on Optimization (ASE7030), Optim
 # Kihwan Choi
 
 <div class="img-container">
-<img width="50%" src="/assets/images/bio-photos/kihwan-01.jpg">
+<img width="35%" src="/assets/images/bio-photos/kihwan-01.jpg">
 </div>
 
 [Kihwan](https://www.linkedin.com/in/kihwan-choi-b8939210/){:target="_blank"} is an Assistant Professor in the Department of Applied Artificial Intelligence at [Seoul National University of Science and Technology (SeoulTech)](https://www.seoultech.ac.kr/){:target="_blank"}. His research focuses on developing artificial intelligence technologies for medical imaging, with particular expertise in CT imaging, endoscopy, image restoration, noise reduction, and automated diagnosis systems.
@@ -81,7 +81,8 @@ Prof. Choi's unique background spanning convex optimization theory (through his 
 # Sunghee Yun
 
 <div class="img-container">
-<img width="80%" src="/assets/images/bio-photos/sunghee-04.jpg">
+<!--img width="80%" src="/assets/images/bio-photos/sunghee-04.jpg"-->
+<img width="35%" src="/assets/images/bio-photos/sunghee-02.jpg">
 </div>
 
 <a href="https://sungheeyun.github.io/">Sunghee</a> is
