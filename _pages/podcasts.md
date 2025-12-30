@@ -7,7 +7,7 @@ toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
 date: Sun Dec 28 05:43:30 PST 2025
-last_modified_at: Tue Dec 30 04:52:30 PST 2025
+last_modified_at: Tue Dec 30 06:20:07 PST 2025
 ---
 
 # Overall
@@ -20,7 +20,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<video width="100%" controls>
-				<source type="video/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/The_Knowledge_Paradox.mp4">
+				<source type="video/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/The_Knowledge_Paradox.mp4">
 			</video>
 		</div>
 	</div>
@@ -31,7 +31,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<video width="100%" controls>
-				<source type="video/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/Knowing_vs.mp4">
+				<source type="video/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/Knowing_vs.mp4">
 				Your browser does not support this video element.
 			</video>
 		</div>
@@ -46,7 +46,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-01" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/Convex_Optimization_Fundamentals_and_Deep_Learning.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/Convex_Optimization_Fundamentals_and_Deep_Learning.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
@@ -58,7 +58,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-02" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/Knowing_the_Math_Missing_the_Truth.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/Knowing_the_Math_Missing_the_Truth.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
@@ -73,7 +73,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-03" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/Reframing_Convex_Optimization_Forum_Recruiting.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/Reframing_Convex_Optimization_Forum_Recruiting.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
@@ -85,7 +85,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-04" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/Applied_Success_or_True_Optimization_Mastery.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/Applied_Success_or_True_Optimization_Mastery.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
@@ -102,7 +102,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<video width="100%" controls>
-				<source type="video/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/more-technical/The_Guaranteed_Path_to_Success.mp4">
+				<source type="video/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/more-technical/The_Guaranteed_Path_to_Success.mp4">
 			</video>
 		</div>
 	</div>
@@ -113,7 +113,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<video width="100%" controls>
-				<source type="video/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/more-technical/Convex_Optimization.mp4">
+				<source type="video/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/more-technical/Convex_Optimization.mp4">
 				Your browser does not support this video element.
 			</video>
 		</div>
@@ -128,7 +128,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-01" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/more-technical/Convexity_Duality_Theory_and_KKT_Proof.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/more-technical/Convexity_Duality_Theory_and_KKT_Proof.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
@@ -140,7 +140,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-02" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/more-technical/Local_Optimum_is_Global_Optimum.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/more-technical/Local_Optimum_is_Global_Optimum.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
@@ -155,7 +155,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-03" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/more-technical/Structuring_Convex_Optimization_for_Impact.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/more-technical/Structuring_Convex_Optimization_for_Impact.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
@@ -167,7 +167,7 @@ last_modified_at: Tue Dec 30 04:52:30 PST 2025
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-04" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/NotebookLM/more-technical/Rigor_Versus_Intuition_in_Convex_Optimization.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/convex-optimization-99.github.io/more-technical/Rigor_Versus_Intuition_in_Convex_Optimization.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
